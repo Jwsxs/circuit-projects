@@ -11,10 +11,13 @@ Trying to apply it into simple circuits just as:
 
 ![FULL_ADDER](./imgs/full_adder.png)
 
-*For example, 0101 and 0110 being added, resulting in 1011*
+<sub>*For example, 0101 and 0110 being added, resulting in 1011*</sub>
+<sub>*Read from bottom to top*</sub>
 
-- `FEEDBACK_LOOP.circ`: my attempt of a [S/R Latch](https://www.build-electronic-circuits.com/s-r-latch/), which later on I found out the name of what I was doing;
-- `SR_LATCH.circ`: comparison between _my_ latch, and one on the website linked;
+- `SR_LATCH.circ`: my attempt of a [S/R Latch](https://www.build-electronic-circuits.com/s-r-latch/), which later on I found out the name of what I was doing;
+
+![SR_LATCH](./imgs/sr_latch.gif)
+
 - `D_FLIP_FLOP.circ`: a bunch of S/R Latches to make a simple [Flip-Flop](https://en.wikipedia.org/wiki/Flip-flop_(electronics));
 - `REGISTERS_CIRCUIT.circ`: my interpretation of a *4-bit* CPU Register.
 
