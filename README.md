@@ -1,5 +1,5 @@
 ## CIRCUITS PROJECTS
-A bunch of simple *[digital circuits](https://en.wikipedia.org/wiki/Digital_electronics)* for understanding and application of what I learned by reading [Logic and Algebra of Boole](https://www.estantevirtual.com.br/livro/logica-e-algebra-de-boole-0V6-3368-000-BK) at uni.
+A bunch of simple *[digital circuits](https://en.wikipedia.org/wiki/Digital_electronics)* for understanding and application of what I learned by reading [Logic and Algebra of Boole](https://www.estantevirtual.com.br/livro/logica-e-algebra-de-boole-0V6-3368-000-BK) before starting my Computer Engineering degree at UTFPR.
 Trying to apply it into simple circuits just as:
 - `HALF_ADDER.circ`: the simple implementation of *1-bit* addition, by having end *sum* and a *carry out*;
 - `FULL_ADDER.circ`: implementation of a bunch of half-adder's to make a "manual" *4-bit* number sum;
