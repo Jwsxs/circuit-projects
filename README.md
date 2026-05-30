@@ -19,8 +19,14 @@ Trying to apply it into simple circuits just as:
 ![SR_LATCH](./imgs/sr_latch.GIF)
 
 - `D_FLIP_FLOP.circ`: a bunch of S/R Latches to make a simple [Flip-Flop](https://en.wikipedia.org/wiki/Flip-flop_(electronics));
+
+
+
 - `REGISTERS_CIRCUIT.circ`: my interpretation of a *4-bit* CPU Register.
 
 I'll be trying to keep this repo updated with newer more complex circuits, or even simple ones, since this is an area I'm very interested in, and can proudly call myself _enthusiast_ now, or shouldn't I?
 
-### HOW TO CHECK
+### HOW TO OPEN `.circ`
+All these ones are specifically made on [Logisim-evolution](https://github.com/logisim-evolution/logisim-evolution).
+
+Just load it there, and should work fine.
